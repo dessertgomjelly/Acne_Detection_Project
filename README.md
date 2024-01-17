@@ -3,7 +3,7 @@ Matlab과 Python을 활용한 얼굴 인식 및 여드름 객체 검출 분류 �
 
 <br>
 
-## 📽️배경
+## [배경]
 - ### 개발 목적 및 필요성
 
 <img width="500" alt="개발목적 및 필요성" src="https://github.com/dessertgomjelly/Acne_Detection_Project/assets/127851446/4e5720f3-c618-465f-be6e-35eeb334c4f6">
@@ -13,7 +13,8 @@ Matlab과 Python을 활용한 얼굴 인식 및 여드름 객체 검출 분류 �
 
 <br>
 
-##  📽️ 주요 기능
+##  [주요 기능]
+
 <br>
 
 ### 1. 얼굴 인식
@@ -28,12 +29,12 @@ Matlab과 Python을 활용한 얼굴 인식 및 여드름 객체 검출 분류 �
 
 <br>
 
-## 📽️ 프로젝트 진행 기간
+## [프로젝트 진행 기간]
 2023.06.12 ~ 2023.06.26 (2주간 진행)
 
 <br>
 
-## 📽️ 사용 언어 및 기술
+## [사용 언어 및 기술]
 - ### Python
   - MTCNN 라이브러리
 - ### Matlab 
@@ -42,7 +43,7 @@ Matlab과 Python을 활용한 얼굴 인식 및 여드름 객체 검출 분류 �
 
 <br>
 
-## 📽️ 프로젝트 결과
+## [프로젝트 결과]
 - ### 주파수 영역 탐지
   - 주파수 성분을 분석하여 1단계인 비염증성 여드름 검출 가능
 - ### 색상 탐지
@@ -54,6 +55,6 @@ Matlab과 Python을 활용한 얼굴 인식 및 여드름 객체 검출 분류 �
 
 <br>
 
-## 📽️ 유저 시나리오
+## [유저 시나리오]
 <img width="700" alt="유저 시나리오" src="https://github.com/dessertgomjelly/Acne_Detection_Project/assets/127851446/5cf79c6f-2aa3-4f57-9d05-ebf0de45cb82">
 
