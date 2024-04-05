@@ -1,6 +1,6 @@
 # 🫥 Acne_Detection_Project <영상 처리>
 Matlab과 Python을 활용한 얼굴 인식 및 여드름 객체 검출 분류 프로젝트
-
+[자세한 프로젝트 리뷰](https://github.com/dessertgomjelly/Acne_Detection_Project/blob/main/acne_detection_%20report.pdf)
 <br>
 
 ## [배경]
